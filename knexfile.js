@@ -1,3 +1,5 @@
+
+  
 // Update with your config settings.
 
 module.exports = {
@@ -5,7 +7,7 @@ module.exports = {
   connection: {
     database: "postgres",
     user: "postgres",
-    password: "docker",
+    password: "postgres",
   },
   pool: {
     min: 2,
